@@ -1,7 +1,9 @@
-<<<<<<< HEAD
 # Face-Recognition-App
 
-React app that can detect faces in the photo based on the URL input, using Predict API from Clarifai
+A fully functional full-stack web application designed using React for the front end. 
+For the [back end API](https://github.com/edsonha/Face-Recognition-App-API), it is built using Express and Node.js and the [working app](https://facerecognition-project.herokuapp.com/) deployed  on Heroku.
+
+It provides Sign In and Register functionality and using Clarifai API - Face Detection model, the app is able to detect faces in the photo based on image URL.
 
 ## Created Using
 
@@ -16,9 +18,3 @@ React app that can detect faces in the photo based on the URL input, using Predi
 https://facerecognition-project.herokuapp.com/
 
 <img src="src/images/AppScreenshot.png" >
-=======
-# facerecognitionapp
-Front End using React - face recognition app
-
-Online demo: https://facerecognition-project.herokuapp.com/
->>>>>>> d379f98e2478dc90a59cf313579556cd39a6f402
